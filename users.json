@@ -1,0 +1,16 @@
+{
+ "users": {
+    "users": [
+      {
+        "username": "juan",
+        "password": "juan1234",
+        "name": "Juan Salao Biantong"
+      },
+      {
+        "username": "niel",
+        "password": "niel1234",
+        "name": "Nathaniel Rantetampang"
+      }
+    ]
+  }, 
+}
