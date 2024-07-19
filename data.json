@@ -1,0 +1,460 @@
+{
+  "users": {
+    "users": [
+      {
+        "username": "juan",
+        "password": "juan1234",
+        "name": "Juan Salao Biantong"
+      },
+      {
+        "username": "niel",
+        "password": "niel1234",
+        "name": "Nathaniel Rantetampang"
+      }
+    ]
+  },
+  "dataJemaat": [
+    {
+      "id": 3,
+      "nama": "Siti Rahmawati",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 4,
+      "nama": "Ahmad Fauzan",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 5,
+      "nama": "Rina Susanti",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 6,
+      "nama": "Budi Santoso",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 7,
+      "nama": "Dewi Anggraini",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 8,
+      "nama": "Indra Wijaya",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 9,
+      "nama": "Ratna Kartika",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 10,
+      "nama": "Hendra Saputra",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 11,
+      "nama": "Diana Puspita",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 12,
+      "nama": "Arifin Setiawan",
+      "sektor": 1,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 13,
+      "nama": "Sulastri",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 14,
+      "nama": "Rahmat Hidayat",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 15,
+      "nama": "Nurul Aini",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 16,
+      "nama": "Firman Suryadi",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 17,
+      "nama": "Lestari Damayanti",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 18,
+      "nama": "Andi Gunawan",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 19,
+      "nama": "Fitri Handayani",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 20,
+      "nama": "Wawan Setiawan",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 21,
+      "nama": "Desi Purnamasari",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 22,
+      "nama": "Arman Maulana",
+      "sektor": 2,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 23,
+      "nama": "Lina Marlina",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 24,
+      "nama": "Yusuf Abdullah",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 25,
+      "nama": "Rina Amelia",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 26,
+      "nama": "Syahrul Anwar",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 27,
+      "nama": "Cici Paramita",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 28,
+      "nama": "Adi Pratama",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 29,
+      "nama": "Nina Rosalina",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 30,
+      "nama": "Eko Saputro",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 31,
+      "nama": "Yulianti",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 32,
+      "nama": "Rudi Hartono",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 33,
+      "nama": "Lina Anggraeni",
+      "sektor": 3,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 34,
+      "nama": "Siti Nurjanah",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 35,
+      "nama": "Bambang Suharto",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 36,
+      "nama": "Mila Karmila",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 37,
+      "nama": "Doni Saputra",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 38,
+      "nama": "Tina Mawarni",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 39,
+      "nama": "Ridwan Ramadhan",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 40,
+      "nama": "Santi Ambarwati",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 41,
+      "nama": "Wahyu Hidayat",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 42,
+      "nama": "Citra Dewi",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 43,
+      "nama": "Arif Hidayat",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 44,
+      "nama": "Nurmawati",
+      "sektor": 4,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 45,
+      "nama": "Sari Ramadhani",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 46,
+      "nama": "Yusuf Maulana",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 47,
+      "nama": "Rani Kusuma",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 48,
+      "nama": "Fajar Prasetyo",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 49,
+      "nama": "Lia Kurnia",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 50,
+      "nama": "Agus Setiawan",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 51,
+      "nama": "Ayu Lestari",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 52,
+      "nama": "Bayu Nugraha",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 53,
+      "nama": "Intan Permata",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 54,
+      "nama": "Edi Kurniawan",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 55,
+      "nama": "Aini Febriani",
+      "sektor": 5,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 56,
+      "nama": "Putri Andini",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 57,
+      "nama": "Ahmad Zaini",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 58,
+      "nama": "Yuniar Rahma",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 59,
+      "nama": "Faisal Akbar",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 60,
+      "nama": "Fitriani",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 61,
+      "nama": "Arif Budiman",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 62,
+      "nama": "Siti Aisyah",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 63,
+      "nama": "Bambang Sutrisno",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 64,
+
+      "nama": "Yanti Rahman",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    },
+    {
+      "id": 65,
+      "nama": "Zulkifli",
+      "sektor": 6,
+      "penatua": false,
+      "diaken": false
+    }
+  ]
+}
