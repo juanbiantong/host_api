@@ -12,6 +12,12 @@
         "password": "niel1234",
         "name": "Nathaniel Rantetampang",
          "isVoted":false
+      },
+      {
+        "username": "juan",
+        "password": "juan12345",
+        "name": "Nathaniel Rantetampang",
+         "isVoted":false
       }
     ]
   },
