@@ -4,12 +4,14 @@
       {
         "username": "juan",
         "password": "juan1234",
-        "name": "Juan Salao Biantong"
+        "name": "Juan Salao Biantong",
+        "isVoted":true
       },
       {
         "username": "niel",
         "password": "niel1234",
-        "name": "Nathaniel Rantetampang"
+        "name": "Nathaniel Rantetampang",
+         "isVoted":false
       }
     ]
   },
