@@ -18,6 +18,12 @@
         "password": "juan12345",
         "name": "Juan Salao Biantong",
          "isVoted":false
+      },
+       {
+        "username": "user",
+        "password": "user1234",
+        "name": "User Test",
+         "isVoted":false
       }
     ]
   },
