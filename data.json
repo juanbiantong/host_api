@@ -30,7 +30,7 @@
  "dataJemaat": [
     {
       "id": "1",
-      "name": "Monika W. L. Parura Pabutungan (Ny)",
+      "name": "Benny Mathius Lotte",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -40,7 +40,7 @@
     },
     {
       "id": "2",
-      "name": "Jane Smith",
+      "name": "Frederik Lolo",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -50,7 +50,7 @@
     },
     {
       "id": "3",
-      "name": "Michael Johnson",
+      "name": "Herman Palinggi",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -60,7 +60,7 @@
     },
     {
       "id": "4",
-      "name": "Siti Rahmawati",
+      "name": "Otniel Omu Sumbung",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -70,7 +70,7 @@
     },
     {
       "id": "5",
-      "name": "Maria Garcia",
+      "name": "Yanih Rusyanih",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -80,7 +80,7 @@
     },
     {
       "id": "6",
-      "name": "David Wilson",
+      "name": "Yati Tandipayung",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -88,9 +88,9 @@
       "password": null,
       "isRegistered": false
     },
-    {
+   {
       "id": "7",
-      "name": "James Brown",
+      "name": "Yulin Tonapa Lintin",
       "sector": 1,
       "penatua": false,
       "diaken": false,
@@ -100,8 +100,8 @@
     },
     {
       "id": "8",
-      "name": "Emily Davis",
-      "sector": 1,
+      "name": "Jenita Ruti Palungan",
+      "sector": 2,
       "penatua": false,
       "diaken": false,
       "username": null,
@@ -110,8 +110,8 @@
     },
     {
       "id": "9",
-      "name": "Robert Miller",
-      "sector": 1,
+      "name": "Lidia Datu Parura",
+      "sector": 2,
       "penatua": false,
       "diaken": false,
       "username": null,
@@ -120,8 +120,8 @@
     },
     {
       "id": "10",
-      "name": "Jessica Wilson",
-      "sector": 1,
+      "name": "Marthen B. Borotoding",
+      "sector": 2,
       "penatua": false,
       "diaken": false,
       "username": null,
@@ -130,7 +130,7 @@
     },
     {
       "id": "11",
-      "name": "William Martinez",
+      "name": "Monika Wani Lisu Parura Pabutungan (Ny)",
       "sector": 2,
       "penatua": false,
       "diaken": false,
@@ -140,7 +140,7 @@
     },
     {
       "id": "12",
-      "name": "Olivia Anderson",
+      "name": "Puji Astuti",
       "sector": 2,
       "penatua": false,
       "diaken": false,
@@ -150,7 +150,7 @@
     },
     {
       "id": "13",
-      "name": "Ava Thomas",
+      "name": "Yacub Kadang",
       "sector": 2,
       "penatua": false,
       "diaken": false,
@@ -160,7 +160,7 @@
     },
     {
       "id": "14",
-      "name": "Sophia Jackson",
+      "name": "Yan Lelepadang",
       "sector": 2,
       "penatua": false,
       "diaken": false,
