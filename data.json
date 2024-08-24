@@ -27,13 +27,12 @@
       }
     ]
   },
- "dataJemaat": [
+ "penatua": [
     {
       "id": "1",
       "name": "Benny Mathius Lotte",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": "jonasd",
       "password": "asdas",
       "isRegistered": true
@@ -43,7 +42,6 @@
       "name": "Frederik Lolo",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": "dfasf",
       "password": "asfwwe",
       "isRegistered": true
@@ -53,7 +51,6 @@
       "name": "Herman Palinggi",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": "juan",
       "password": "1234",
       "isRegistered": true
@@ -63,7 +60,6 @@
       "name": "Otniel Omu Sumbung",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -73,7 +69,6 @@
       "name": "Yanih Rusyanih",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": "maria",
       "password": "garcia",
       "isRegistered": true
@@ -83,7 +78,6 @@
       "name": "Yati Tandipayung",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -93,7 +87,6 @@
       "name": "Yulin Tonapa Lintin",
       "sector": 1,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -103,7 +96,6 @@
       "name": "Jenita Ruti Palungan",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -113,7 +105,6 @@
       "name": "Lidia Datu Parura",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -123,7 +114,6 @@
       "name": "Marthen B. Borotoding",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -133,7 +123,6 @@
       "name": "Monika Wani Lisu Parura Pabutungan (Ny)",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -143,7 +132,6 @@
       "name": "Puji Astuti",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -153,7 +141,6 @@
       "name": "Yacub Kadang",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -163,7 +150,6 @@
       "name": "Yan Lelepadang",
       "sector": 2,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -173,7 +159,6 @@
       "name": "Michael Tangke La'bi Pandin",
       "sector": 3,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -183,7 +168,6 @@
       "name": "Sergius Sarungu'",
       "sector": 3,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -193,7 +177,6 @@
       "name": "Alexander Pasangallo",
       "sector": 4,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -203,7 +186,6 @@
       "name": "Ferdinandus Denny Bontong",
       "sector": 4,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -213,7 +195,6 @@
       "name": "Matius Tangyong",
       "sector": 4,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -223,7 +204,6 @@
       "name": "Sandyanto Karambe",
       "sector": 4,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -233,7 +213,6 @@
       "name": "Selvy Tonanda Sollu",
       "sector": 4,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -243,7 +222,6 @@
       "name": "Semly Saalino",
       "sector": 4,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -253,7 +231,6 @@
       "name": "Amran Ampulembang",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -263,7 +240,6 @@
       "name": "Daud Barapadang",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -273,7 +249,6 @@
       "name": "Dominggus S. Misalayuk",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -283,7 +258,6 @@
       "name": "Evriyan Tandirerung",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -293,7 +267,6 @@
       "name": "Mathius Rante Tato Pabaru",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -303,7 +276,6 @@
       "name": "Runiosa Tasik Tangkaba",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -313,7 +285,6 @@
       "name": "Tuto Tumbuan",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -323,7 +294,6 @@
       "name": "Yeane Mine Tulungallo",
       "sector": 5,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -333,7 +303,6 @@
       "name": "Djoni Menteng",
       "sector": 6,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -343,7 +312,6 @@
       "name": "Eltisa J. Sombolayuk Batti",
       "sector": 6,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -353,7 +321,6 @@
       "name": "Juan Salao Biantong",
       "sector": 6,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -363,7 +330,6 @@
       "name": "Katrina J. Ratu",
       "sector": 6,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -373,7 +339,6 @@
       "name": "Matius M. Tangdililing",
       "sector": 6,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -383,7 +348,6 @@
       "name": "Yunita Bulo",
       "sector": 6,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -393,7 +357,6 @@
       "name": "David Lobby",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -403,7 +366,6 @@
       "name": "Lambert Timbayo",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -413,7 +375,6 @@
       "name": "Marmairna Tangdilintin",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -423,7 +384,6 @@
       "name": "Marthen Paembonan",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -433,7 +393,6 @@
       "name": "Rispa Palebangan",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -443,7 +402,6 @@
       "name": "Sukaryanto Robby Reppa",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -453,7 +411,6 @@
       "name": "Yulius Rantetasak",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
@@ -463,270 +420,20 @@
       "name": "Yunus Lolo",
       "sector": 7,
       "penatua": false,
-      "diaken": false,
       "username": null,
       "password": null,
       "isRegistered": false
     },
+  ],
+  "diaken": [
     {
-      "id": "45",
-      "name": "Lily Sanchez",
-      "sector": 5,
+      "id": "1",
+      "name": "Abednego B.S.",
+      "sector": 1,
       "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
+      "username": "jonasd",
+      "password": "asdas",
+      "isRegistered": true
     },
-    {
-      "id": "46",
-      "name": "Addison Morris",
-      "sector": 5,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "47",
-      "name": "Victoria Rogers",
-      "sector": 5,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "48",
-      "name": "Grace Rivera",
-      "sector": 5,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "49",
-      "name": "Zoe Cook",
-      "sector": 5,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "50",
-      "name": "Addison Morgan",
-      "sector": 5,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "51",
-      "name": "Layla Bell",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "52",
-      "name": "Luna Griffin",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "53",
-      "name": "Mila Howard",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "54",
-      "name": "Leah Ward",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "55",
-      "name": "Sofia Cooper",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "56",
-      "name": "Avery Cox",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "57",
-      "name": "Ella Torres",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "58",
-      "name": "Aubrey Ramirez",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "59",
-      "name": "Nora Foster",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "60",
-      "name": "Lily Jenkins",
-      "sector": 6,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "61",
-      "name": "Aria Perry",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "62",
-      "name": "Sophie Powell",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "63",
-      "name": "Aurora Sanders",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "64",
-      "name": "Chloe Patterson",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "65",
-      "name": "Layla Hughes",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "66",
-      "name": "Hazel Bryant",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "67",
-      "name": "Riley Alexander",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "68",
-      "name": "Elena Russell",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "69",
-      "name": "Avery Hamilton",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    },
-    {
-      "id": "70",
-      "name": "Scarlett Stewart",
-      "sector": 7,
-      "penatua": false,
-      "diaken": false,
-      "username": null,
-      "password": null,
-      "isRegistered": false
-    }
   ]
 }
