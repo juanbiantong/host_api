@@ -27,7 +27,7 @@
       }
     ]
   },
- "penatua": [
+ "dataPenatua": [
     {
       "id": "1",
       "name": "Benny Mathius Lotte",
@@ -425,7 +425,7 @@
       "isRegistered": false
     },
   ],
-  "diaken": [
+  "dataDiaken": [
     {
       "id": "1",
       "name": "Abednego B.S.",
