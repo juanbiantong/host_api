@@ -424,16 +424,5 @@
       "password": null,
       "isRegistered": false
     },
-  ],
-  "dataDiaken": [
-    {
-      "id": "1",
-      "name": "Abednego B.S.",
-      "sector": 1,
-      "penatua": false,
-      "username": "jonasd",
-      "password": "asdas",
-      "isRegistered": true
-    },
   ]
 }
