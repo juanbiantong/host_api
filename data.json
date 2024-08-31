@@ -428,7 +428,7 @@
   "dataDiaken":[
      {
       "id": "1",
-      "name": "Benny Mathius Lotte",
+      "name": "Abednego B.S.",
       "sector": 1,
       "penatua": false,
       "username": "jonasd",
@@ -437,7 +437,7 @@
     },
     {
       "id": "2",
-      "name": "Frederik Lolo",
+      "name": "Dety D. Palimbong",
       "sector": 1,
       "penatua": false,
       "username": "dfasf",
@@ -446,7 +446,7 @@
     },
     {
       "id": "3",
-      "name": "Herman Palinggi",
+      "name": "Elis Sampe Andi",
       "sector": 1,
       "penatua": false,
       "username": "juan",
@@ -455,7 +455,7 @@
     },
     {
       "id": "4",
-      "name": "Otniel Omu Sumbung",
+      "name": "Elisa Tiku Dudung",
       "sector": 1,
       "penatua": false,
       "username": null,
@@ -464,7 +464,7 @@
     },
     {
       "id": "5",
-      "name": "Yanih Rusyanih",
+      "name": "Rosalina Rante",
       "sector": 1,
       "penatua": false,
       "username": "maria",
@@ -473,8 +473,8 @@
     },
     {
       "id": "6",
-      "name": "Yati Tandipayung",
-      "sector": 1,
+      "name": "Bianca Marella Putri Salusu",
+      "sector": 2,
       "penatua": false,
       "username": null,
       "password": null,
@@ -482,8 +482,8 @@
     },
    {
       "id": "7",
-      "name": "Yulin Tonapa Lintin",
-      "sector": 1,
+      "name": "Elyezer Sampe",
+      "sector": 2,
       "penatua": false,
       "username": null,
       "password": null,
@@ -491,7 +491,7 @@
     },
     {
       "id": "8",
-      "name": "Jenita Ruti Palungan",
+      "name": "Kevin Belmart Suharto Rano",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -500,7 +500,7 @@
     },
     {
       "id": "9",
-      "name": "Lidia Datu Parura",
+      "name": "Mariyana Sampe",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -509,7 +509,7 @@
     },
     {
       "id": "10",
-      "name": "Marthen B. Borotoding",
+      "name": "Moses Maraya Sambo",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -518,7 +518,7 @@
     },
     {
       "id": "11",
-      "name": "Monika Wani Lisu Parura Pabutungan (Ny)",
+      "name": "Nataniel Rantetampang",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -527,7 +527,7 @@
     },
     {
       "id": "12",
-      "name": "Puji Astuti",
+      "name": "Patriks Chrstian Sipa Pasambe",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -536,7 +536,7 @@
     },
     {
       "id": "13",
-      "name": "Yacub Kadang",
+      "name": "Ruth Ratuk",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -545,7 +545,7 @@
     },
     {
       "id": "14",
-      "name": "Yan Lelepadang",
+      "name": "Salinding Malingga Pasolang",
       "sector": 2,
       "penatua": false,
       "username": null,
@@ -554,8 +554,8 @@
     },
     {
       "id": "15",
-      "name": "Michael Tangke La'bi Pandin",
-      "sector": 3,
+      "name": "Serpina Palungan",
+      "sector": 2,
       "penatua": false,
       "username": null,
       "password": null,
@@ -563,7 +563,7 @@
     },
     {
       "id": "16",
-      "name": "Sergius Sarungu'",
+      "name": "Devin Anugrah Papalangi'",
       "sector": 3,
       "penatua": false,
       "username": null,
@@ -572,8 +572,8 @@
     },
     {
       "id": "17",
-      "name": "Alexander Pasangallo",
-      "sector": 4,
+      "name": "Lukas Toni Tandisau",
+      "sector": 3,
       "penatua": false,
       "username": null,
       "password": null,
@@ -581,8 +581,8 @@
     },
     {
       "id": "18",
-      "name": "Ferdinandus Denny Bontong",
-      "sector": 4,
+      "name": "Selfia Borang",
+      "sector": 3,
       "penatua": false,
       "username": null,
       "password": null,
@@ -590,7 +590,7 @@
     },
     {
       "id": "19",
-      "name": "Matius Tangyong",
+      "name": "Maria Mutiara Kendenan",
       "sector": 4,
       "penatua": false,
       "username": null,
@@ -599,7 +599,7 @@
     },
     {
       "id": "20",
-      "name": "Sandyanto Karambe",
+      "name": "Selvi Nopiaty Todingbua",
       "sector": 4,
       "penatua": false,
       "username": null,
@@ -608,7 +608,7 @@
     },
     {
       "id": "21",
-      "name": "Selvy Tonanda Sollu",
+      "name": "Yenni Pulung",
       "sector": 4,
       "penatua": false,
       "username": null,
@@ -617,8 +617,8 @@
     },
     {
       "id": "22",
-      "name": "Semly Saalino",
-      "sector": 4,
+      "name": "Daud Tanan Manturino",
+      "sector": 5,
       "penatua": false,
       "username": null,
       "password": null,
@@ -626,7 +626,7 @@
     },
     {
       "id": "23",
-      "name": "Amran Ampulembang",
+      "name": "Deanzet Tangkaba",
       "sector": 5,
       "penatua": false,
       "username": null,
@@ -635,7 +635,7 @@
     },
     {
       "id": "24",
-      "name": "Daud Barapadang",
+      "name": "Jerry Tulungallo",
       "sector": 5,
       "penatua": false,
       "username": null,
@@ -644,7 +644,7 @@
     },
     {
       "id": "25",
-      "name": "Dominggus S. Misalayuk",
+      "name": "Oktarina Putri",
       "sector": 5,
       "penatua": false,
       "username": null,
@@ -653,7 +653,7 @@
     },
     {
       "id": "26",
-      "name": "Evriyan Tandirerung",
+      "name": "Otniel Paembonan",
       "sector": 5,
       "penatua": false,
       "username": null,
@@ -662,7 +662,7 @@
     },
     {
       "id": "27",
-      "name": "Mathius Rante Tato Pabaru",
+      "name": "Reinaldo Talo Bulo",
       "sector": 5,
       "penatua": false,
       "username": null,
@@ -671,7 +671,7 @@
     },
     {
       "id": "28",
-      "name": "Runiosa Tasik Tangkaba",
+      "name": "Tienneke Sampe",
       "sector": 5,
       "penatua": false,
       "username": null,
@@ -680,8 +680,8 @@
     },
     {
       "id": "29",
-      "name": "Tuto Tumbuan",
-      "sector": 5,
+      "name": "Alvius Pilo Kalalembang (Pardede)",
+      "sector": 6,
       "penatua": false,
       "username": null,
       "password": null,
@@ -689,8 +689,8 @@
     },
     {
       "id": "30",
-      "name": "Yeane Mine Tulungallo",
-      "sector": 5,
+      "name": "Devando Samuel Aldoni",
+      "sector": 6,
       "penatua": false,
       "username": null,
       "password": null,
@@ -698,7 +698,7 @@
     },
     {
       "id": "31",
-      "name": "Djoni Menteng",
+      "name": "Elman Loyang",
       "sector": 6,
       "penatua": false,
       "username": null,
@@ -707,7 +707,7 @@
     },
     {
       "id": "32",
-      "name": "Eltisa J. Sombolayuk Batti",
+      "name": "Frengki Matapu",
       "sector": 6,
       "penatua": false,
       "username": null,
@@ -716,7 +716,7 @@
     },
     {
       "id": "33",
-      "name": "Juan Salao Biantong",
+      "name": "Hendra Palebangan",
       "sector": 6,
       "penatua": false,
       "username": null,
@@ -725,7 +725,7 @@
     },
     {
       "id": "34",
-      "name": "Katrina J. Ratu",
+      "name": "Rosmaya Tengko Lebang",
       "sector": 6,
       "penatua": false,
       "username": null,
@@ -734,8 +734,8 @@
     },
     {
       "id": "35",
-      "name": "Matius M. Tangdililing",
-      "sector": 6,
+      "name": "Aris Tasba Borotoding",
+      "sector": 7,
       "penatua": false,
       "username": null,
       "password": null,
@@ -743,8 +743,8 @@
     },
     {
       "id": "36",
-      "name": "Yunita Bulo",
-      "sector": 6,
+      "name": "Belana Senobaan",
+      "sector": 7,
       "penatua": false,
       "username": null,
       "password": null,
@@ -752,7 +752,7 @@
     },
     {
       "id": "37",
-      "name": "David Lobby",
+      "name": "Deny Yusuf Makale",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -761,7 +761,7 @@
     },
     {
       "id": "38",
-      "name": "Lambert Timbayo",
+      "name": "Dwissamen Paruruk",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -770,7 +770,7 @@
     },
     {
       "id": "39",
-      "name": "Marmairna Tangdilintin",
+      "name": "Helma Madao",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -779,7 +779,7 @@
     },
     {
       "id": "40",
-      "name": "Marthen Paembonan",
+      "name": "Laurens Tangyong",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -788,7 +788,7 @@
     },
     {
       "id": "41",
-      "name": "Rispa Palebangan",
+      "name": "Matriona L. Linorante",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -797,7 +797,7 @@
     },
     {
       "id": "42",
-      "name": "Sukaryanto Robby Reppa",
+      "name": "Petrus Bongga Tanggulungan",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -806,7 +806,7 @@
     },
     {
       "id": "43",
-      "name": "Yulius Rantetasak",
+      "name": "Rionaldo Ekaputra Palinggi",
       "sector": 7,
       "penatua": false,
       "username": null,
@@ -815,7 +815,7 @@
     },
     {
       "id": "44",
-      "name": "Yunus Lolo",
+      "name": "Sarjan",
       "sector": 7,
       "penatua": false,
       "username": null,
