@@ -27,8 +27,406 @@
       }
     ]
   },
- "dataPenatuaa": [
+ "dataPenatua": [
     {
+      "id": "1",
+      "name": "Benny Mathius Lotte",
+      "sector": 1,
+      "penatua": false,
+      "username": "jonasd",
+      "password": "asdas",
+      "isRegistered": true
+    },
+    {
+      "id": "2",
+      "name": "Frederik Lolo",
+      "sector": 1,
+      "penatua": false,
+      "username": "dfasf",
+      "password": "asfwwe",
+      "isRegistered": true
+    },
+    {
+      "id": "3",
+      "name": "Herman Palinggi",
+      "sector": 1,
+      "penatua": false,
+      "username": "juan",
+      "password": "1234",
+      "isRegistered": true
+    },
+    {
+      "id": "4",
+      "name": "Otniel Omu Sumbung",
+      "sector": 1,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "5",
+      "name": "Yanih Rusyanih",
+      "sector": 1,
+      "penatua": false,
+      "username": "maria",
+      "password": "garcia",
+      "isRegistered": true
+    },
+    {
+      "id": "6",
+      "name": "Yati Tandipayung",
+      "sector": 1,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+   {
+      "id": "7",
+      "name": "Yulin Tonapa Lintin",
+      "sector": 1,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "8",
+      "name": "Jenita Ruti Palungan",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "9",
+      "name": "Lidia Datu Parura",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "10",
+      "name": "Marthen B. Borotoding",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "11",
+      "name": "Monika Wani Lisu Parura Pabutungan (Ny)",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "12",
+      "name": "Puji Astuti",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "13",
+      "name": "Yacub Kadang",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "14",
+      "name": "Yan Lelepadang",
+      "sector": 2,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "15",
+      "name": "Michael Tangke La'bi Pandin",
+      "sector": 3,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "16",
+      "name": "Sergius Sarungu'",
+      "sector": 3,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "17",
+      "name": "Alexander Pasangallo",
+      "sector": 4,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "18",
+      "name": "Ferdinandus Denny Bontong",
+      "sector": 4,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "19",
+      "name": "Matius Tangyong",
+      "sector": 4,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "20",
+      "name": "Sandyanto Karambe",
+      "sector": 4,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "21",
+      "name": "Selvy Tonanda Sollu",
+      "sector": 4,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "22",
+      "name": "Semly Saalino",
+      "sector": 4,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "23",
+      "name": "Amran Ampulembang",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "24",
+      "name": "Daud Barapadang",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "25",
+      "name": "Dominggus S. Misalayuk",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "26",
+      "name": "Evriyan Tandirerung",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "27",
+      "name": "Mathius Rante Tato Pabaru",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "28",
+      "name": "Runiosa Tasik Tangkaba",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "29",
+      "name": "Tuto Tumbuan",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "30",
+      "name": "Yeane Mine Tulungallo",
+      "sector": 5,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "31",
+      "name": "Djoni Menteng",
+      "sector": 6,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "32",
+      "name": "Eltisa J. Sombolayuk Batti",
+      "sector": 6,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "33",
+      "name": "Juan Salao Biantong",
+      "sector": 6,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "34",
+      "name": "Katrina J. Ratu",
+      "sector": 6,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "35",
+      "name": "Matius M. Tangdililing",
+      "sector": 6,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "36",
+      "name": "Yunita Bulo",
+      "sector": 6,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "37",
+      "name": "David Lobby",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "38",
+      "name": "Lambert Timbayo",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "39",
+      "name": "Marmairna Tangdilintin",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "40",
+      "name": "Marthen Paembonan",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "41",
+      "name": "Rispa Palebangan",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "42",
+      "name": "Sukaryanto Robby Reppa",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "43",
+      "name": "Yulius Rantetasak",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    },
+    {
+      "id": "44",
+      "name": "Yunus Lolo",
+      "sector": 7,
+      "penatua": false,
+      "username": null,
+      "password": null,
+      "isRegistered": false
+    }
+  ],
+  "dataDiaken":[
+     {
       "id": "1",
       "name": "Benny Mathius Lotte",
       "sector": 1,
