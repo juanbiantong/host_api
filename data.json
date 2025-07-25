@@ -5,7 +5,7 @@
         "username": "juan",
         "password": "juan1234",
         "name": "Juan Salao Biantong",
-        "isVoted":true
+        "isVoted":false
       },
       {
         "username": "niel",
